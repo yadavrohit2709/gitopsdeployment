@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: raj80dockerid/test:6
+      - image: 126900832762.dkr.ecr.us-east-1.amazonaws.com/ecs-ecom-repository
         name: flaskdemo
         resources: {}
 status: {}
